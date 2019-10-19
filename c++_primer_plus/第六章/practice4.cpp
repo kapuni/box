@@ -7,7 +7,7 @@ const int number = 5;
 void display_fullname();
 void display_title();
 void display_bopname();
-void display_perference();
+void display_preference();
 int i;
 struct bop
 {
@@ -73,7 +73,7 @@ int main()
             display_bopname();
             break;
         case 'd':
-            display_perference();
+            display_preference();
             break;
         }
         if (ch != 'q')
@@ -87,22 +87,19 @@ void display_fullname()
 {
     int i;
     for (i=0;i<number;i++)
-    {
-         cout << a{i}.fullname << endl;
-    }
-
+        cout << a[i].fullname << endl;
 }
 
 void display_title()
 {
     for (i=0;i<number;i++)
-        cout << a{i}.title <<endl;
+        cout << a[i].title <<endl;
 }
 
 void display_bopname()
 {
     for (i=0;i<number;i++)
-        cout << a{i}.bopname <<endl;
+        cout << a[i].bopname <<endl;
 }
 
 void display_preference()
