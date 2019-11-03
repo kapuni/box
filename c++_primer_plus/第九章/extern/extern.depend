@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1572788060 source:f:\workspace\box\c++_primer_plus\ตฺพลีย\extern\main.cpp
+	<iostream>
+
+1572788060 source:f:\workspace\box\c++_primer_plus\ตฺพลีย\extern\twofiles2.cpp
+	<iostream>
+
