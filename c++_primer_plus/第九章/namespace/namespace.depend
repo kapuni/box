@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1572879515 source:f:\workspace\box\c++_primer_plus\ตฺพลีย\namespace\namesp.cpp
+	<iostream>
+	"namesp.h"
+
+1572879680 f:\workspace\box\c++_primer_plus\ตฺพลีย\namespace\namesp.h
+
+1572879704 source:f:\workspace\box\c++_primer_plus\ตฺพลีย\namespace\main.cpp
+	<iostream>
+	"namesp.h"
+
