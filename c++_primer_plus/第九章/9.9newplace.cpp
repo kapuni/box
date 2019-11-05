@@ -38,7 +38,7 @@ int main()
         cout << pd4[i] << " at " << &pd2[i] << endl;
 
     }
-    cout << "\nCalling new and placement new a second time:\n";
+    cout << "\nCalling new and placement new a third time:\n";
     delete [] pd1;
     pd1 = new double[N];
     pd2 = new (buffer + N * sizeof(double)) double[N];
