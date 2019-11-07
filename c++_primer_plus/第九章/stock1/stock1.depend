@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1573111232 source:f:\workspace\box\c++_primer_plus\ตฺพลีย\stock1\main.cpp
+	<iostream>
+	"stock.h"
+
+1573111263 f:\workspace\box\c++_primer_plus\ตฺพลีย\stock1\stock.h
+
