@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1573311444 source:f:\workspace\box\c++_primer_plus\第十章\practice5\main.cpp
+	<iostream>
+	<cctype>
+	"stack.h"
+
+1573311471 f:\workspace\box\c++_primer_plus\第十章\practice5\stack.h
+
