@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1573309780 source:f:\workspace\box\c++_primer_plus\第十章\practice4\sale1.cpp
+	<iostream>
+	"sale1.h"
+
+1573309751 f:\workspace\box\c++_primer_plus\第十章\practice4\sale1.h
+
