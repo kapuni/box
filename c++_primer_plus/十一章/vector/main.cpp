@@ -4,6 +4,7 @@
 #include <cstdlib>
 #include <ctime>
 #include "vect.h"
+#include <fstream>
 
 int main()
 {
@@ -17,6 +18,8 @@ int main()
     double target;
     double dstep;
     cout << "Enter target distance (q to quit):";
+    ofstream fout;
+    fout.open("thewalk.txt");
     while (cin >> target)
     {
         cout << "Enter step length: ";
@@ -29,11 +32,13 @@ int main()
         step.set(dstep, direction, 'p');
         result = result + step;
         steps++;
+
     }
 
     cout << "After " << steps << " steps, the subject "
     << "has the following location: \n";
     cout << result << endl;
+    fout << result << endl;
     result.polar_mode();
     cout << " or\n" << result << endl;
     cout << "Average outward distance per step = "
@@ -41,7 +46,10 @@ int main()
     steps = 0;
     result.set(0.0, 0.0);
     cout << "Enter target distance(q to quit): ";
+
+
    }
    cout << "Bye!\n";
+
    return 0;
 }
