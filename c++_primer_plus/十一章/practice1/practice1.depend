@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1573727365 source:f:\workspace\box\c++_primer_plus\十一章\practice1\vect.cpp
+	<iostream>
+	<cmath>
+	"vect.h"
+
+1573728848 f:\workspace\box\c++_primer_plus\十一章\practice1\vect.h
+	<iostream>
+	<cmath>
+
+1573728512 source:f:\workspace\box\c++_primer_plus\十一章\practice1\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"vect.h"
+	<fstream>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1573995837 source:f:\workspace\box\c++_primer_plus\十二章\sring1\main.cpp
+	<iostream>
+	"string1.h"
+
+1573996386 f:\workspace\box\c++_primer_plus\十二章\sring1\string1.h
+	<iostream>
+
