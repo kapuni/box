@@ -6,3 +6,8 @@
 1573996386 f:\workspace\box\c++_primer_plus\十二章\sring1\string1.h
 	<iostream>
 
+1573996581 source:f:\workspace\box\c++_primer_plus\十二章\sring1\string1.cpp
+	<iostream>
+	<cstring>
+	"string1.h"
+

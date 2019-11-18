@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1514140574 source:f:\workspace\box\c++_primer_plus\十二章\bank\main.cpp
+	<iostream>
+
+1574087515 source:f:\workspace\box\c++_primer_plus\十二章\queue.cpp
+	<iostream>
+	<cstdlib>
+	"queue.h"
+
+1574087550 f:\workspace\box\c++_primer_plus\十二章\queue.h
+
+1574087515 source:f:\workspace\box\c++_primer_plus\十二章\bank\queue.cpp
+	<iostream>
+	<cstdlib>
+	"queue.h"
+
+1574087550 f:\workspace\box\c++_primer_plus\十二章\bank\queue.h
+
