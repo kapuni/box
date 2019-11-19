@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1514140574 source:f:\workspace\box\c++_primer_plus\十二章\practice6\main.cpp
+	<iostream>
+
+1574152401 source:f:\workspace\box\c++_primer_plus\十二章\practice6\queue2.cpp
+	<cstdlib>
+	"queue2.h"
+
+1574150815 f:\workspace\box\c++_primer_plus\十二章\practice6\queue2.h
+
