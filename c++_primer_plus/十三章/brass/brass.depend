@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1574260464 source:f:\workspace\box\c++_primer_plus\十三章\brass\main.cpp
+	<iostream>
+	"brass.h"
+
+1574260612 f:\workspace\box\c++_primer_plus\十三章\brass\brass.h
+
