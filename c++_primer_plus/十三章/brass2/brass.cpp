@@ -43,7 +43,8 @@ double Brass::Balance()const
 void Brass::ViewAcc()const
 {
     //set up ###.##format
-    ios_base::fmtflags initialState = cout.setf(ios_base::showpoint);
+    ios_base::fmtflags initialState =  cout.setf(ios_base::fixed,ios_base::floatfield);
+    cout.setf(ios_base::showpoint);
     cout.precision(2);
     cout << "Client: " << fullName << endl;
     cout << "Account Number: " << acctNum << endl;

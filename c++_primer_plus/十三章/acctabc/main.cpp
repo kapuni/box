@@ -1,14 +1,14 @@
-//usebrass2.cpp -- polymorphic example
-//compile with brass.cpp
+//usebrass3.cpp -- polymorphic example
+//compile with acctabc.cpp
 #include <iostream>
-#include "brass.h"
+#include "acctabc.h"
 
-const int CLIMITS = 1;
+const int CLIMITS = 4;
 const int LEN = 40;
 int main()
 {
     using namespace std;
-    Brass * p_clients[CLIMITS];
+    AcctABC * p_clients[CLIMITS];
 
     int i;
     for(i = 0; i < CLIMITS; i++)
@@ -44,7 +44,7 @@ int main()
     cout << endl;
     for (i=0; i< CLIMITS; i++)
     {
-        p_clients[i]->ViewAcc();
+        p_clients[i]->ViewAcct();
         cout << endl;
 
     }
