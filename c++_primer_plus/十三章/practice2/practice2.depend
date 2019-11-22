@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1574423101 source:f:\workspace\box\c++_primer_plus\十三章\practice2\main.cpp
+	<iostream>
+	"classic1.h"
+
+1574422555 f:\workspace\box\c++_primer_plus\十三章\practice2\classic1.h
+
