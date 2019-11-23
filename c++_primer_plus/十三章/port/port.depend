@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1574509796 source:f:\workspace\box\c++_primer_plus\十三章\port\main.cpp
+	<iostream>
+	<string>
+	"port.h"
+
+1574508078 f:\workspace\box\c++_primer_plus\十三章\port\port.h
+	<iostream>
+
+1574509807 source:f:\workspace\box\c++_primer_plus\十三章\port\port.cpp
+	<iostream>
+	<cstring>
+	"port.h"
+
