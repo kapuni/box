@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1574599207 source:f:\workspace\box\c++_primer_plus\第十四章\workeri\main.cpp
+	<iostream>
+	<cstring>
+	"workeri.h"
+
+1574598008 f:\workspace\box\c++_primer_plus\第十四章\workeri\workeri.h
+	<iostream>
+
+1574599397 source:f:\workspace\box\c++_primer_plus\第十四章\workeri\workeri.cpp
+	<iostream>
+	"workeri.h"
+
