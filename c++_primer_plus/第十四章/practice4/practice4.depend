@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1574861826 source:f:\workspace\box\c++_primer_plus\第十四章\practice4\person.cpp
+	<iostream>
+	<string>
+	"person.h"
+
+1574862003 f:\workspace\box\c++_primer_plus\第十四章\practice4\person.h
+	<iostream>
+	<string>
+
+1574861926 source:f:\workspace\box\c++_primer_plus\第十四章\practice4\main.cpp
+	<iostream>
+	<cstring>
+	"person.h"
+

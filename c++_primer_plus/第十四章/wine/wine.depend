@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1574856200 source:f:\workspace\box\c++_primer_plus\第十四章\wine\main.cpp
+	<iostream>
+	"wine.h"
+
+1574856200 f:\workspace\box\c++_primer_plus\第十四章\wine\wine.h
+	<iostream>
+	<string>
+	<valarray>
+
+1574856270 source:f:\workspace\box\c++_primer_plus\第十四章\wine\wine.cpp
+	<iostream>
+	<string>
+	"wine.h"
+
