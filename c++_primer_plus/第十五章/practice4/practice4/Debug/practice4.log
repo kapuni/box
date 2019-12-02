@@ -1,0 +1,5 @@
+﻿  maincpp.cpp
+  sales.cpp
+f:\workspace\box\c++_primer_plus\第十五章\practice4\practice4\sales.cpp(9): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+  正在生成代码...
+  practice4.vcxproj -> F:\workspace\box\c++_primer_plus\第十五章\practice4\Debug\practice4.exe
