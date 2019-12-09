@@ -1,0 +1,4 @@
+"apiary", "beetle", "cereal", "danger", "ensign",
+"florid", "garage", "health", "insult", "jackal", "keeper", "loaner", "manage",
+"nonce", "onset", "valid", "plaid", "quilt", "remote", "stolid", "train", "useful",
+"whence", "xenon", "yearn", "zippy"
