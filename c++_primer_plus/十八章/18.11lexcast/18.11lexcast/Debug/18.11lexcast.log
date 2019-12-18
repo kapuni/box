@@ -1,0 +1,3 @@
+﻿  lexcast.cpp
+f:\workspace\box\c++_primer_plus\十八章\18.11lexcast\18.11lexcast\lexcast.cpp(15): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  18.11lexcast.vcxproj -> F:\workspace\box\c++_primer_plus\十八章\18.11lexcast\Debug\18.11lexcast.exe
