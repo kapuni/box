@@ -1,5 +1,6 @@
 #include <opencv2/highgui/highgui.hpp>
 #include <opencv2/imgproc/imgproc.hpp>
+#include <iostream>
 
 using namespace cv;
 //全局变量声明
@@ -74,16 +75,19 @@ int main(int argc, char *argv[])
 	namedWindow("dstMeanBlur", 1);
 	createTrackbar("Kernal Parameter: ", "dstMeanBlur", &g_nMeanBlurPara, 40, meanBlurCallback);
 	meanBlurCallback(g_nGuassianBlurPara, 0);
+	
 
 	//高斯滤波
 	namedWindow("dstGaussianBlur", 1);
 	createTrackbar("Kernal Parameter: ", "dstGaussianBlur", &g_nGuassianBlurPara, 40, guassianBlurCallback);
 	guassianBlurCallback(g_nGuassianBlurPara, 0);
+	
 
 	//中值滤波
 	namedWindow("dstMedianBlur", 1);
 	createTrackbar("Kernal Parameter: ", "dstMedianBlur", &g_nMedianBlurPara, 40, medianBlurCallback);
 	medianBlurCallback(g_nMedianBlurPara, 0);
+	
 
 	while (1)
 	{
